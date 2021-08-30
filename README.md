@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kmr-sumit
 - 👀 I’m interested in Python, Django, and frond end web development 
 - 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on React
+- 💞️ I’m looking to collaborate on React, and the whole Mern Stack.
 - 📫 How to reach me learn.ksumit@gmail.com
 
 <!---
